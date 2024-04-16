@@ -1,6 +1,7 @@
 import json
 import re
 import pandas as pd
+
 def import_data(path = "C:\\Users\\yanis\\OneDrive\\Documents\\ENSAE 3A\\NLP\\Projet\\data\entities.json"):
     """Function to import text data. Create a DataFrame in which each column corresponds to a tag.
 
