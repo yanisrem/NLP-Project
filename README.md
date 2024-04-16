@@ -53,5 +53,5 @@ For the others, we extract age, birth date, nationality ans civil status from te
 Balanced accuracy is 92% on the test set.
 
 <div style="text-align:center;">
-  <img fig="roc_precrecall" width="500" height="300">
+  <img src="./fig/roc_precrecall" width="500" height="300">
 </div>
