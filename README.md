@@ -21,10 +21,10 @@ Here, we focus on the prediction of the head of household from census data conve
 
 ## Features
 
-`estimation_population.ipynb`: estimate the size of the target population by webscrapping the table [link](https://fr.wikipedia.org/wiki/Histoire_d%C3%A9mographique_de_la_France)
-`descriptive_analysis.ipynb`: descriptive statistics on the census data sample
-`main.ipynb`: data processing and model import for head of household prediction
-`src`: package of the proposed solution
+- `estimation_population.ipynb`: estimate the size of the target population by webscrapping the table [link](https://fr.wikipedia.org/wiki/Histoire_d%C3%A9mographique_de_la_France)
+- `descriptive_analysis.ipynb`: descriptive statistics on the census data sample
+- `main.ipynb`: data processing and model import for head of household prediction
+- `src`: package of the proposed solution
 
 ## Getting Started
 
